@@ -38,5 +38,5 @@ Progressively difficult levels
 Lives system
 
 
-**develop by** : **<мя.ᴄ͢ᴏᴅᴇʀ𝙭/>
+**develop by :<мя.ᴄ͢ᴏᴅᴇʀ𝙭/>
 
