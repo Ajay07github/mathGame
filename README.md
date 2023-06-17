@@ -38,5 +38,5 @@ Progressively difficult levels
 Lives system
 
 
-**develop by :<krishnakant Waghmode/>
+**develop by :<krishnakant>
 
